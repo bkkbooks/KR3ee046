@@ -1,0 +1,154 @@
+canonical_identifier: bkk:krp/KR3ee046/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ee046/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 灸膏肓腧穴法
+  identifiers:
+    krp: KR3ee046
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee046.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ee046_000-jc.yaml, hash: 'sha256:bfb1a050252f12b10c61e7af8e9dec6bf6950401622cd40e1ffaed53611144a6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ee046_000-jc.markers.yaml, hash: 'sha256:27d3f96f6b9d5d7a38f1810a09039888f406edc9d5eee3f9fa54fda776c9010a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 373
+  label: 孫真人千金方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d3.h1s1
+    span:
+    - body
+    - 373
+    - 710
+  label: 王惟一明堂銅人灸經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d4.h1s1
+    span:
+    - body
+    - 710
+    - 1047
+  label: 量同身寸法第一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d5.h1s1
+    span:
+    - body
+    - 1047
+    - 1267
+  label: 正坐伸臂法第二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d6.h1s1
+    span:
+    - body
+    - 1267
+    - 1711
+  label: 揣顀骨定穴高下法第三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d7.h1s1
+    span:
+    - body
+    - 1711
+    - 1878
+  label: 定穴相去遠近法第四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d8.h1s1
+    span:
+    - body
+    - 1878
+    - 1964
+  label: 鉤股按穴取平法第五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d9.h1s1
+    span:
+    - body
+    - 1964
+    - 2317
+  label: 參驗求穴法第六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d10.h1s1
+    span:
+    - body
+    - 2317
+    - 2635
+  label: 坐點坐灸法第七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d11.h1s1
+    span:
+    - body
+    - 2635
+    - 2905
+  label: 石用之取穴別法第八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d12.h1s1
+    span:
+    - body
+    - 2905
+    - 3335
+  label: 葉潘等取穴別法第九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d13.h1s1
+    span:
+    - body
+    - 3335
+    - 3501
+  label: 灸訖補養法第十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee046_jc_000-d14.h1s1
+    span:
+    - body
+    - 3501
+    - 3775
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:1fe082b6fd7a599446f288d90877d438fb81199994ff7953f685cdf6a1666819
