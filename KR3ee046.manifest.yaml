@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee046/v1
 canonical_location: https://kanripo.org/bkk/KR3ee046/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 灸膏肓腧穴法
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee046_000.yaml, hash: 'sha256:bfb1a050252f12b10c61e7af8e9dec6bf6950401622cd40e1ffaed53611144a6'}
+  - {seq: 0, filename: KR3ee046_000.yaml, hash: 'sha256:b24f8b5180dfdddc4a1b6c0099b3f2fcc1f99891c3ec1c6d947c99f6974dbb57'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee046_000.markers.yaml, hash: 'sha256:f490d2ab148d6800b93e17365a3ed61af90b72b0d6ac8b9b9de62fef441f6db4'}
+  - {seq: 0, role: markers, filename: assets/KR3ee046_000.markers.yaml, hash: 'sha256:ac1cedaca2d5b7afc518f69d7d7deee1a5e5ca4832cc4b5b09bb2d4ef14c6bd3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -151,4 +151,7 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:04e13599e229cec1950b90956268b782bc31764fa9793f1ee374ebfa90f45d11
+hash: sha256:1692a7df87210c73ff08822a7a2a890d8f88eaff4f19934e41c3e99a3483c419
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
